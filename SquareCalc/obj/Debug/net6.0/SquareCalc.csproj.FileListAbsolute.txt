@@ -1,0 +1,12 @@
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\bin\Debug\net6.0\SquareCalc.deps.json
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\bin\Debug\net6.0\SquareCalc.dll
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\bin\Debug\net6.0\SquareCalc.pdb
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\SquareCalc.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\SquareCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\SquareCalc.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\SquareCalc.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\SquareCalc.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\SquareCalc.dll
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\refint\SquareCalc.dll
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\SquareCalc.pdb
+C:\Users\Михаил\Desktop\Тестовые\MindBox\SquareCalc\obj\Debug\net6.0\ref\SquareCalc.dll
